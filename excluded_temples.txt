@@ -1,0 +1,23 @@
+These temples were excluded from the dataset because there were too few relevant images available for download.
+
+Belem, Brazil
+Lisbon, Portugal
+Okinawa, Japan
+Quito, Ecuador
+Rio de Janeiro, Brazil
+Lima, Peru Los Olivos
+Tokyo, Japan
+Trujillo, Peru
+Tampico, Mexico
+Praia, Cape Verde
+Port-au-Prince, Haiti
+Nuku’alofa, Tonga
+Kyiv, Ukraine
+Guadalajara, Mexico
+Hamilton, New Zealand
+Feather River, California
+Cordoba, Argentina
+Cebu City, Philippines
+Brasilia, Brazil
+Bentonville, Arkansas
+Arequipa, Peru
